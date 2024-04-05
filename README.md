@@ -21,3 +21,5 @@ Raymon Anthony Doane: 3.139% (11606/369711)
 -----------------------
 Winner: Diana DeGette
 -----------------------
+Note: I included in the issues tab, that I am unable to delete certain files in this repo. 
+I sourced the setup for my code from previous activies within visual studio code and consulted chatgpt for errors I was getting, most of them were not properly defining my variables in the beginning, but those were fixed. 
